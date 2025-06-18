@@ -1,0 +1,28 @@
+# Eclipse metadata
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build and output folders
+bin/
+target/
+
+# Logs, temp, and backups
+*.log
+*.tmp
+*.bak
+
+# Compiled class files
+*.class
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# OS/system files
+.DS_Store
+Thumbs.db
